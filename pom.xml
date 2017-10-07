@@ -11,6 +11,7 @@
     <modules>
         <module>nonDI</module>
         <module>DI</module>
+        <module>SpringXmlConfig</module>
     </modules>
 
 
