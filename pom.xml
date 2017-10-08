@@ -13,6 +13,7 @@
         <module>DI</module>
         <module>SpringXmlConfig</module>
         <module>SpringXmlConfiguration2</module>
+        <module>SpringXmlConfiguration3</module>
     </modules>
 
 
