@@ -14,6 +14,7 @@
         <module>SpringXmlConfig</module>
         <module>SpringXmlConfiguration2</module>
         <module>SpringXmlConfiguration3</module>
+        <module>SpringJavaConfiguration</module>
     </modules>
 
 

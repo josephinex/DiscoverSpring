@@ -4,6 +4,7 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans
 http://www.springframework.org/schema/beans/spring-beans.xsd">
 
+    <!--  Injecting a SlayDragonQuest into a BraveKnight with Spring  -->
     <bean id="knight" class="BraveKnight">
         <constructor-arg ref="quest" />
     </bean>
