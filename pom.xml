@@ -15,6 +15,7 @@
         <module>SpringXmlConfiguration2</module>
         <module>SpringXmlConfiguration3</module>
         <module>SpringJavaConfiguration</module>
+        <module>AopInAction</module>
     </modules>
 
 
