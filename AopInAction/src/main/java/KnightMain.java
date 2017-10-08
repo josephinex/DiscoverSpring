@@ -4,7 +4,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 public class KnightMain {
     public static void main(String[] args) throws Exception {
         ApplicationContext applicationContext = new ClassPathXmlApplicationContext("beans.xml");
-        Knight knight = applicationContext.getBean("knight", BraveKnight.class);
+        Knight knight = applicationContext.getBean("knight", Knight.class);
         knight.embarkOnQuest();
     }
 }
