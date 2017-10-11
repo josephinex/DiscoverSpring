@@ -16,6 +16,7 @@
         <module>SpringXmlConfiguration3</module>
         <module>SpringJavaConfiguration</module>
         <module>AopInAction</module>
+        <module>AutowiringExample</module>
     </modules>
 
 
